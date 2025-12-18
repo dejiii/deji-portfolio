@@ -15,7 +15,7 @@ export const Footer = () => {
           <div className="small-text">
             <a
               href="https://www.linkedin.com/in/adeyiga/"
-              targer="_blank"
+              target="_blank"
               rel="noreferrer"
             >
               LinkedIn

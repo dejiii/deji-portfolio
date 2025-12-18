@@ -14,7 +14,7 @@ export const NavBar = () => {
           <li>
             <a
               href="https://www.linkedin.com/in/adeyiga/"
-              targer="_blank"
+              target="_blank"
               rel="noreferrer"
             >
               LinkedIn
